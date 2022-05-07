@@ -1,0 +1,12 @@
+@import "fonts";
+
+body{
+    font-family: CormorantUpright;
+    font-weight: 700;
+     background: url('@img/dog.jpg') 0 0 no-repeat;
+    span{
+        color:red;
+        font-family: BriosoPro Italic;
+        font-weight: 400;
+    }
+}
